@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**7** solved · 7 problems · 0 labs · 0 math
+**8** solved · 8 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -13,6 +13,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
 | [Conv2d Output Shape](https://www.deep-ml.com/problems/1232) | easy | 2026-09-16 | [solution](problems/1232-conv2d-output-shape) |
+| [Count Parameters of a Sequential Model](https://www.deep-ml.com/problems/1218) | easy | 2026-09-16 | [solution](problems/1218-count-parameters-of-a-sequential-model) |
 | [Create and Inspect a Tensor](https://www.deep-ml.com/problems/1220) | easy | 2026-09-16 | [solution](problems/1220-create-and-inspect-a-tensor) |
 | [Gradient of a Square with Autograd](https://www.deep-ml.com/problems/1222) | easy | 2026-09-16 | [solution](problems/1222-gradient-of-a-square-with-autograd) |
 | [Implementation of Log Softmax Function](https://www.deep-ml.com/problems/39) | easy | 2026-09-15 | [solution](problems/0039-implementation-of-log-softmax-function) |
