@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**8** solved · 8 problems · 0 labs · 0 math
+**9** solved · 9 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -20,6 +20,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Reshape and Transpose a Tensor](https://www.deep-ml.com/problems/1221) | easy | 2026-09-16 | [solution](problems/1221-reshape-and-transpose-a-tensor) |
 | [Calculate Correlation Matrix](https://www.deep-ml.com/problems/37) | medium | 2026-09-15 | [solution](problems/0037-calculate-correlation-matrix) |
 | [Implement BatchNorm2d from Scratch (training mode)](https://www.deep-ml.com/problems/902) | medium | 2026-09-16 | [solution](problems/0902-implement-batchnorm2d-from-scratch-training-mode) |
+| [One Training Step](https://www.deep-ml.com/problems/1219) | medium | 2026-09-16 | [solution](problems/1219-one-training-step) |
 
 ---
 
